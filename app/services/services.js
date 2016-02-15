@@ -3,13 +3,14 @@ app.factory('userData', function() {
   return {
 
     user: {
-      firstName: 'Sebastian',
-      lastName: 'Brukalo',
-      languages: ["C#", "JavaScript", "C++", "Other Web Stuff"],
-      email: 'sebastian@brukalo.com',
-      startDate: new Date(2000, 02, 04), // month value is 0 based, others are 1 based.
+      firstName: 'Haroldo S.',
+      lastName: 'Lontra Jr.',
+      languages: ["Java","Nodejs","C#", "JavaScript", "AngularJS", "Ionic", "Other Web Stuff"],
+      email: 'hslj@relato.com.br',
+      startDate: new Date(2013, 12, 28), // month value is 0 based, others are 1 based.
       dashes: 'something that should not have spaces',
-      username: 'angularjs'
+      username: 'RELATO',
+      company:"Relato Consultoria"
     }
   }
 

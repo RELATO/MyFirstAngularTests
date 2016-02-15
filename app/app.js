@@ -1,6 +1,6 @@
 var app = angular.module('myfirstangularapp', ['ngRoute']).
     config(function($routeProvider){
-      console.log("here");
+      //console.log("here");
       $routeProvider.when('/view',
           {
             templateUrl:'app/templates/view.html',
