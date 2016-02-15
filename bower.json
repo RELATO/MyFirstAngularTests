@@ -1,0 +1,24 @@
+{
+  "name": "MyFirstAngularApplication-Routing in AngularJS",
+  "homepage": "https://github.com/RELATO/MyFirstAngularTests",
+  "authors": [
+    "relato <hslj@relato.com.br>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.0",
+    "jquery": "^2.2.0",
+    "angular": "angularjs#^1.5.0",
+    "bootstrap": "^3.3.6"
+  }
+}
